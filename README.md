@@ -13,13 +13,16 @@ Their LLaVA got 52.5 ± 1.9
 
 Their Blip2 got 29.1 ± 1.4
 
-###GPT as Judge (ScienceQA.ipynb)
+### GPT as Judge (ScienceQA.ipynb)
+
 The main concept of the GPT as judge is stated below:
 1. LLaVA answers with image (already collected in llava_responses)
 2. GPT (gpt-oss-20b) answers independently via text-only
 3. If both agree → final answer
 4. If they disagree → GPT acts as judge, reviewing both reasoning chains
-##Results:
+
+## Results:
+
 Final (LLaVA + GPT judge):  74/100 = 74.00%
 LLaVA only:                 70/100 = 70.00%
 GPT only (text-only):       77/100 = 77.00%
