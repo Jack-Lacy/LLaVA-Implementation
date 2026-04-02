@@ -1,4 +1,5 @@
 # Evaluating the fine-tuned version of LLaVA versus its pre-trained version with 500 samples
+
 import json
 import os
 import random
