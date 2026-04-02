@@ -1,3 +1,5 @@
+# Creating a synthesized dataset with augmented prompting, based on VG and TallyQA datasets for finetinung LLaVA for object counting tasks
+
 import argparse
 import json
 import random
