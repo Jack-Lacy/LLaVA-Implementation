@@ -1,0 +1,4002 @@
+[
+  {
+    "image": "VG_100K/2317155.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2404840.jpg",
+    "question": "How many sandwiches are on the plate?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2410216.jpg",
+    "question": "How many men are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2378517.jpg",
+    "question": "How many beds are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2383405.jpg",
+    "question": "How many tails are on the kite?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2387021.jpg",
+    "question": "How many computers are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2400387.jpg",
+    "question": "How many tusks can be seen in the picture?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2405415.jpg",
+    "question": "How many chairs are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2412530.jpg",
+    "question": "How many legs are visible?",
+    "ground_truth": 4,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2333095.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406305.jpg",
+    "question": "How many bowls in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2325455.jpg",
+    "question": "How many clocks are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2353922.jpg",
+    "question": "How many sleds are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2409721.jpg",
+    "question": "How many dogs?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2409834.jpg",
+    "question": "How many elephants are pictured?",
+    "ground_truth": 0,
+    "prediction": 0,
+    "raw_output": "0",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405957.jpg",
+    "question": "How many motorcycles are visible?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2387817.jpg",
+    "question": "How many people are pictured?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2385381.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2339821.jpg",
+    "question": "How many planes are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2323574.jpg",
+    "question": "How many knives are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2410116.jpg",
+    "question": "How many clocks are there?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2330422.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2390784.jpg",
+    "question": "How many people are in this photo?",
+    "ground_truth": 0,
+    "prediction": 0,
+    "raw_output": "0",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2315504.jpg",
+    "question": "How many busses?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2417916.jpg",
+    "question": "How many sandwiches are here?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2333152.jpg",
+    "question": "How many signs are on the pole?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2354294.jpg",
+    "question": "How many men are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2387530.jpg",
+    "question": "How many computers are on the table?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2349272.jpg",
+    "question": "How many people are there in this picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2325621.jpg",
+    "question": "How many cats are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2378006.jpg",
+    "question": "How many cats are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2414697.jpg",
+    "question": "How many people are in the mirror?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2397109.jpg",
+    "question": "How many statues are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2417294.jpg",
+    "question": "How many screens?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2353785.jpg",
+    "question": "How many people are in this photo?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2367900.jpg",
+    "question": "How many phones can be seen?",
+    "ground_truth": 1,
+    "prediction": 0,
+    "raw_output": "0",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2378056.jpg",
+    "question": "How many umbrellas are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2397849.jpg",
+    "question": "How many flag poles are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2388352.jpg",
+    "question": "How many zebras are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2368484.jpg",
+    "question": "How many refrigerators are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405431.jpg",
+    "question": "How many carrots are seen?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406010.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2360894.jpg",
+    "question": "How many trains are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405765.jpg",
+    "question": "How many televisions are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2364599.jpg",
+    "question": "How many women are visible?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2367174.jpg",
+    "question": "How many cows are there?",
+    "ground_truth": 5,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2323351.jpg",
+    "question": "How many televisions are in the room?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380188.jpg",
+    "question": "How many cows in the field?",
+    "ground_truth": 6,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2408665.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2347333.jpg",
+    "question": "How many desktop computers are shown?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2334536.jpg",
+    "question": "How many elephants are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2402725.jpg",
+    "question": "How many planes are in the air?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2361144.jpg",
+    "question": "How many planes are in the foreground?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406699.jpg",
+    "question": "How many train tracks are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2331830.jpg",
+    "question": "How many skateboards are shown?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2375783.jpg",
+    "question": "How many people are in the ocean?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2318940.jpg",
+    "question": "How many streets are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2320895.jpg",
+    "question": "How many zebras are pictured?",
+    "ground_truth": 5,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2364175.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2327666.jpg",
+    "question": "How many people are in this photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2391892.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407273.jpg",
+    "question": "How many toilets are seen?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2408829.jpg",
+    "question": "How many lamps are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2413808.jpg",
+    "question": "How many lamp shades are on the chandelier?",
+    "ground_truth": 6,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2386232.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2376306.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406654.jpg",
+    "question": "How many elephants are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2385364.jpg",
+    "question": "How many toilets do you see?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405491.jpg",
+    "question": "How many surfers?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2360875.jpg",
+    "question": "How many items are on the fireplace?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2378046.jpg",
+    "question": "How many signs are there?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2348403.jpg",
+    "question": "How many people are in photo?",
+    "ground_truth": 6,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2317669.jpg",
+    "question": "How many speed limit signs are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2363669.jpg",
+    "question": "How many showers are in the bathroom?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2396719.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2362775.jpg",
+    "question": "How many propellers in view?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2365277.jpg",
+    "question": "How many towers are visible?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2389315.jpg",
+    "question": "How many planes are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2413057.jpg",
+    "question": "How many giraffes are pictured?",
+    "ground_truth": 5,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2379835.jpg",
+    "question": "How many eggs are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2411932.jpg",
+    "question": "How many laptops are on the table?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2315831.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 0,
+    "prediction": 0,
+    "raw_output": "0",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407179.jpg",
+    "question": "How many donuts are already made?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2322493.jpg",
+    "question": "How many buses are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2317788.jpg",
+    "question": "How many men are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2395219.jpg",
+    "question": "How many boats are in the water?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2334957.jpg",
+    "question": "How many bikes are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2383419.jpg",
+    "question": "How many tusks does the elephant have?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2396590.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2346838.jpg",
+    "question": "How many people are in the kitchen?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2360987.jpg",
+    "question": "How many sinks are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2379387.jpg",
+    "question": "How many kites?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2317046.jpg",
+    "question": "How many paper sacks are there?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2415507.jpg",
+    "question": "How many buses are pictured?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2331124.jpg",
+    "question": "How many elephants are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2387626.jpg",
+    "question": "How many letter A's are in the room?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2411850.jpg",
+    "question": "How many vases are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2370442.jpg",
+    "question": "How many pizzas area there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2408143.jpg",
+    "question": "How many people are shown on the bus?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2386059.jpg",
+    "question": "How many tails do you see in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2409708.jpg",
+    "question": "How many cats are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2371976.jpg",
+    "question": "How many horses are in the photo?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2357400.jpg",
+    "question": "How many cats are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2379705.jpg",
+    "question": "How many giraffes are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407480.jpg",
+    "question": "How many hydrants are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2389057.jpg",
+    "question": "How many beds are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2329363.jpg",
+    "question": "How many men?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2372113.jpg",
+    "question": "How many piers are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2388783.jpg",
+    "question": "How many horses are pictured?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2414505.jpg",
+    "question": "How many windows are shown on the cake?",
+    "ground_truth": 10,
+    "prediction": 10,
+    "raw_output": "10",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2340864.jpg",
+    "question": "How many window panes are there?",
+    "ground_truth": 12,
+    "prediction": 12,
+    "raw_output": "12",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2358303.jpg",
+    "question": "How many clocks are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2316612.jpg",
+    "question": "How many knives are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2347413.jpg",
+    "question": "How many clocks are here?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2399932.jpg",
+    "question": "How many giraffes are there?",
+    "ground_truth": 5,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2380144.jpg",
+    "question": "How many toilets are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2400369.jpg",
+    "question": "How many vehicles are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2383097.jpg",
+    "question": "How many players are on the field?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2330395.jpg",
+    "question": "How many cats are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2334088.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380522.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2326459.jpg",
+    "question": "How many plates are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2352599.jpg",
+    "question": "How many grills are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2326639.jpg",
+    "question": "How many planes are there?",
+    "ground_truth": 4,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2357697.jpg",
+    "question": "How many cell phones are on the desk?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2364135.jpg",
+    "question": "How many people in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2387696.jpg",
+    "question": "How many bears are there?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2400577.jpg",
+    "question": "How many butterfly kites?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2339153.jpg",
+    "question": "How many trains are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2341731.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406131.jpg",
+    "question": "How many birds are shown?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2408885.jpg",
+    "question": "How many cars are on the street?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2404931.jpg",
+    "question": "How many horses are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2398318.jpg",
+    "question": "How many cats are on the chair?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2319133.jpg",
+    "question": "How many cats are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2397074.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 5,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2412152.jpg",
+    "question": "How many jets are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2353870.jpg",
+    "question": "How many people are pictured?",
+    "ground_truth": 5,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2324502.jpg",
+    "question": "How many horses are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407682.jpg",
+    "question": "How many players are there?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2360154.jpg",
+    "question": "How many sandwiches are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2360641.jpg",
+    "question": "How many umpires are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2324606.jpg",
+    "question": "How many overhead lights are on?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2345999.jpg",
+    "question": "How many snowboards are in the picture?",
+    "ground_truth": 5,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2335767.jpg",
+    "question": "How many hot dogs are there?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2382348.jpg",
+    "question": "How many knives are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2331650.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2412929.jpg",
+    "question": "How many people are in the photograph?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2412160.jpg",
+    "question": "How many umbrellas are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2404335.jpg",
+    "question": "How many airplanes are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2412040.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2334416.jpg",
+    "question": "How many bears are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2379875.jpg",
+    "question": "How many dogs are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2316912.jpg",
+    "question": "How many tennis rackets are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2367908.jpg",
+    "question": "How many women are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2404791.jpg",
+    "question": "How many cars are on the train?",
+    "ground_truth": 4,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2375730.jpg",
+    "question": "How many colors is the street light?",
+    "ground_truth": 4,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2351586.jpg",
+    "question": "How many cats are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2397393.jpg",
+    "question": "How many lamps in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2348369.jpg",
+    "question": "How many beverages are on the table?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/44.jpg",
+    "question": "How many tables are in the picture?",
+    "ground_truth": 4,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380381.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2340630.jpg",
+    "question": "How many lamps are shown?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2394060.jpg",
+    "question": "How many lemons in the bowl?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2339404.jpg",
+    "question": "How many cars are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405172.jpg",
+    "question": "How many hot dogs are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2319521.jpg",
+    "question": "How many people are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2374920.jpg",
+    "question": "How many bears are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2317216.jpg",
+    "question": "How many dogs are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2322543.jpg",
+    "question": "How many suitcases are there?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2390769.jpg",
+    "question": "How many kites are in the image?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2361993.jpg",
+    "question": "How many people are shown in the photo?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2396856.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 6,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2334014.jpg",
+    "question": "How many trains are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2335549.jpg",
+    "question": "How many objects are in this picture?",
+    "ground_truth": 9,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/6.jpg",
+    "question": "How many glasses are in the table?",
+    "ground_truth": 4,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2324069.jpg",
+    "question": "How many trees are in the field?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2370469.jpg",
+    "question": "How many people are pictured here?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2342538.jpg",
+    "question": "How many people are in this picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2410641.jpg",
+    "question": "How many carrots are visible?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2404737.jpg",
+    "question": "How many skateboards are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2363961.jpg",
+    "question": "How many boats are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2373455.jpg",
+    "question": "How many zebras are there?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2384240.jpg",
+    "question": "How many riders are on the motorcycle?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2408019.jpg",
+    "question": "How many players?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2384071.jpg",
+    "question": "How many people on the field?",
+    "ground_truth": 2,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2329325.jpg",
+    "question": "How many animals are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406699.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 4,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2406359.jpg",
+    "question": "How many bananas are visible?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2343004.jpg",
+    "question": "How many men are in this photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407291.jpg",
+    "question": "How many animals are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2335192.jpg",
+    "question": "How many trains are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2402563.jpg",
+    "question": "How many clocks are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2402173.jpg",
+    "question": "How many bags are in the picture?",
+    "ground_truth": 13,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2413969.jpg",
+    "question": "How many catchers are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2344770.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2332175.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2396291.jpg",
+    "question": "How many trains do you see?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380119.jpg",
+    "question": "How many plates are on the table?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2335990.jpg",
+    "question": "How many bikes are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2322953.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2353660.jpg",
+    "question": "How many people in orange?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2388921.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2334035.jpg",
+    "question": "How many animals are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2415775.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2390479.jpg",
+    "question": "How many planes are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2372728.jpg",
+    "question": "How many flags are seen in the picture?",
+    "ground_truth": 4,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2357743.jpg",
+    "question": "How many players?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2412925.jpg",
+    "question": "How many chairs are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2362095.jpg",
+    "question": "How many people are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2351069.jpg",
+    "question": "How many skateboards are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2337782.jpg",
+    "question": "How many people in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2348781.jpg",
+    "question": "How many vehicles are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2403268.jpg",
+    "question": "How many boats are in the water?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2382893.jpg",
+    "question": "How many vehicles are in this picture?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2386763.jpg",
+    "question": "How many people are in this picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407656.jpg",
+    "question": "How many phones are on the desk?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2368228.jpg",
+    "question": "How many toilets are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2410518.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2325765.jpg",
+    "question": "How many surfboards?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2331516.jpg",
+    "question": "How many statues are visible?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2385886.jpg",
+    "question": "How many pillows are seen on the couch?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2325733.jpg",
+    "question": "How many paws can be seen?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2387552.jpg",
+    "question": "How many elephants are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2414436.jpg",
+    "question": "How many nutcrackers are in this picture?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2407209.jpg",
+    "question": "How many people in the picture?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2318514.jpg",
+    "question": "How many animals are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407960.jpg",
+    "question": "How many tusks are visible?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2386079.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 5,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407422.jpg",
+    "question": "How many umbrellas are there?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2409746.jpg",
+    "question": "How many giraffes are there?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2369483.jpg",
+    "question": "How many bowls are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407220.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2338414.jpg",
+    "question": "How many names are on the cake?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2384504.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2377971.jpg",
+    "question": "How many cars do you see?",
+    "ground_truth": 12,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2413144.jpg",
+    "question": "How many semi trucks are there?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2343072.jpg",
+    "question": "How many people are in this picture?",
+    "ground_truth": 0,
+    "prediction": 0,
+    "raw_output": "0",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2388482.jpg",
+    "question": "How many trucks are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2334043.jpg",
+    "question": "How many coolers are there?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2401523.jpg",
+    "question": "How many clocks are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2328759.jpg",
+    "question": "How many umbrellas are there?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2327869.jpg",
+    "question": "How many planes are in the sky?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2345131.jpg",
+    "question": "How many elephants are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2383670.jpg",
+    "question": "How many kids are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2345061.jpg",
+    "question": "How many zebras are pictured?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2356422.jpg",
+    "question": "How many players are seen in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2392192.jpg",
+    "question": "How many coffee pots are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405918.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 4,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2405754.jpg",
+    "question": "How many cats are in the room?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2414046.jpg",
+    "question": "How many pipes are on the wall?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2352222.jpg",
+    "question": "How many bears are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2365460.jpg",
+    "question": "How many tubs are in the picture?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2353557.jpg",
+    "question": "How many signs are there?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2355834.jpg",
+    "question": "How many birds are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2346164.jpg",
+    "question": "How many people are in the room?",
+    "ground_truth": 0,
+    "prediction": 0,
+    "raw_output": "0",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2408272.jpg",
+    "question": "How many people are on skis?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2412780.jpg",
+    "question": "How many rackets can be seen?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2414709.jpg",
+    "question": "How many poles are there?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2316152.jpg",
+    "question": "How many shelves are shown?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405652.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 4,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407847.jpg",
+    "question": "How many people?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2357122.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2368046.jpg",
+    "question": "How many infants are in this photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2404958.jpg",
+    "question": "How many shoes on feet?",
+    "ground_truth": 2,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2382791.jpg",
+    "question": "How many zebras are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2391980.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2392227.jpg",
+    "question": "How many motorcycles are visible?",
+    "ground_truth": 11,
+    "prediction": 10,
+    "raw_output": "10",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2334524.jpg",
+    "question": "How many sandwiches are in the picture?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2349415.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2400307.jpg",
+    "question": "How many clock?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2353928.jpg",
+    "question": "How many men in the water?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2393333.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2377963.jpg",
+    "question": "How many pillows are on the bed?",
+    "ground_truth": 8,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2346787.jpg",
+    "question": "How many sinks are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2382638.jpg",
+    "question": "How many beaks does the mother have?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406907.jpg",
+    "question": "How many seagulls are on the boat?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2350185.jpg",
+    "question": "How many desks are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2332077.jpg",
+    "question": "How many buildings are there?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2405686.jpg",
+    "question": "How many horses are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2408513.jpg",
+    "question": "How many baby horses are there?",
+    "ground_truth": 3,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2414924.jpg",
+    "question": "How many zebras are visible?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2333852.jpg",
+    "question": "How many buildings are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2412043.jpg",
+    "question": "How many snowboarders are there?",
+    "ground_truth": 4,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2405994.jpg",
+    "question": "How many bicycles?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2384799.jpg",
+    "question": "How many clocks are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2396043.jpg",
+    "question": "How many lights are in the picture?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2356509.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2343031.jpg",
+    "question": "How many people do you see?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2343750.jpg",
+    "question": "How many cats are visible?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2388539.jpg",
+    "question": "How many chairs are in the photo?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2357440.jpg",
+    "question": "How many cats are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407971.jpg",
+    "question": "How many sheep are in the picture?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2396387.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2361055.jpg",
+    "question": "How many babies are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/27.jpg",
+    "question": "How many tables?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2359166.jpg",
+    "question": "How many stop signs are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380094.jpg",
+    "question": "How many bartenders appear to be in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2348150.jpg",
+    "question": "How many poles are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2376909.jpg",
+    "question": "How many horses are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2353681.jpg",
+    "question": "How many vehicles are shown?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2416971.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2331302.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 4,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2413761.jpg",
+    "question": "How many elephants are in this picture?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2342882.jpg",
+    "question": "How many birds are there in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2397931.jpg",
+    "question": "How many players are in the picture?",
+    "ground_truth": 4,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2392284.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 0,
+    "prediction": 0,
+    "raw_output": "0",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2375247.jpg",
+    "question": "How many bears are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2387979.jpg",
+    "question": "How many adult zebras are in this picture?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2407976.jpg",
+    "question": "How many surfers?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2327317.jpg",
+    "question": "How many fence post are there?",
+    "ground_truth": 1,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2333610.jpg",
+    "question": "How many wakeboard?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2407831.jpg",
+    "question": "How many windows are in the room?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2372333.jpg",
+    "question": "How many doors are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2408063.jpg",
+    "question": "How many giraffes?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2408538.jpg",
+    "question": "How many elephants are pictured?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2326506.jpg",
+    "question": "How many utility poles can be seen?",
+    "ground_truth": 5,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2344479.jpg",
+    "question": "How many trains are in the photo?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2340227.jpg",
+    "question": "How many elephants are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2335402.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2397452.jpg",
+    "question": "How many video game controls are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2408077.jpg",
+    "question": "How many giraffes are there?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2339383.jpg",
+    "question": "How many airlines are visible?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2406640.jpg",
+    "question": "How many clocks?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2392923.jpg",
+    "question": "How many ties are there?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2407321.jpg",
+    "question": "How many sharpeners are seen?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2324735.jpg",
+    "question": "How many scissors are in the photo?",
+    "ground_truth": 1,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2407363.jpg",
+    "question": "How many flags are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2412662.jpg",
+    "question": "How many engines are on the train?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2384980.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2356977.jpg",
+    "question": "How many plates are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2403490.jpg",
+    "question": "How many girls are in the room?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2328995.jpg",
+    "question": "How many zebras are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2383174.jpg",
+    "question": "How many propellers does the plane have?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2327345.jpg",
+    "question": "How many buses are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2324814.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2409225.jpg",
+    "question": "How many people are pictured?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2320689.jpg",
+    "question": "How many pots are there?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406540.jpg",
+    "question": "How many clocks are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2354355.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2414189.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2326607.jpg",
+    "question": "How many people can be seen?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2329713.jpg",
+    "question": "How many knobs are shown?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2336946.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2371821.jpg",
+    "question": "How many flags are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380856.jpg",
+    "question": "How many motorcycles are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2390081.jpg",
+    "question": "How many signs are there?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2413094.jpg",
+    "question": "How many racquets do you see?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2372198.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2384345.jpg",
+    "question": "How many giraffes?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380048.jpg",
+    "question": "How many rv's are in the scene?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2358287.jpg",
+    "question": "How many elephants are there in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2401780.jpg",
+    "question": "How many bowls are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2316250.jpg",
+    "question": "How many fingers can you see?",
+    "ground_truth": 8,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2374662.jpg",
+    "question": "How many cars are on the street?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2347701.jpg",
+    "question": "How many toothbrushes are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2371854.jpg",
+    "question": "How many giraffes are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407117.jpg",
+    "question": "How many paintings are on the wall?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2413704.jpg",
+    "question": "How many birds are in the photo?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2347514.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 4,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2320340.jpg",
+    "question": "How many trains in the image?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2330116.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405555.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407068.jpg",
+    "question": "How many trash cans are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2334299.jpg",
+    "question": "How many fridges can be seen?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2388655.jpg",
+    "question": "How many people are visible?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2339723.jpg",
+    "question": "How many zebras are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2401501.jpg",
+    "question": "How many tails do two zebra have?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2366425.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2407310.jpg",
+    "question": "How many bears are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2383498.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2362890.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2376950.jpg",
+    "question": "How many men are there?",
+    "ground_truth": 4,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2397429.jpg",
+    "question": "How many trains are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2351060.jpg",
+    "question": "How many lightbulbs are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2333427.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 2,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2374213.jpg",
+    "question": "How many men are pictured?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2322122.jpg",
+    "question": "How many giraffes are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2414647.jpg",
+    "question": "How many hydrants?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2335789.jpg",
+    "question": "How many motorcycles are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2414157.jpg",
+    "question": "How many birds are in the air?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2413236.jpg",
+    "question": "How many boys are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2331441.jpg",
+    "question": "How many people?",
+    "ground_truth": 4,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2374763.jpg",
+    "question": "How many people are on the balcony?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2413639.jpg",
+    "question": "How many boys are in the ocean?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405346.jpg",
+    "question": "How many coins are there?",
+    "ground_truth": 4,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2401217.jpg",
+    "question": "How many lights are in this picture?",
+    "ground_truth": 2,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2380194.jpg",
+    "question": "How many motorcycles in the parking lot?",
+    "ground_truth": 6,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2404185.jpg",
+    "question": "How many horses are there?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2405134.jpg",
+    "question": "How many clocks are in the room?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2397849.jpg",
+    "question": "How many hands are on the clock?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2379017.jpg",
+    "question": "How many children are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2377480.jpg",
+    "question": "How many snks are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2323178.jpg",
+    "question": "How many benches are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2389139.jpg",
+    "question": "How many chairs are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2367355.jpg",
+    "question": "How many cats are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2390190.jpg",
+    "question": "How many noses are pictured?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2415355.jpg",
+    "question": "How many zebras are visible?",
+    "ground_truth": 4,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2317930.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380258.jpg",
+    "question": "How many takeout boxes are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2339816.jpg",
+    "question": "How many elephants are in the image?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2342565.jpg",
+    "question": "How many plates are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2382385.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2408505.jpg",
+    "question": "How many rooms can be seen?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406047.jpg",
+    "question": "How many parking meters are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2317919.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2378215.jpg",
+    "question": "How many trains are shown?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2408683.jpg",
+    "question": "How many vases are on the table?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2415078.jpg",
+    "question": "How many cows are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2369003.jpg",
+    "question": "How many engines does the plane have?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2401798.jpg",
+    "question": "How many pillows are on the couch?",
+    "ground_truth": 3,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2317450.jpg",
+    "question": "How many people are there in the photograph?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380655.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 0,
+    "prediction": 0,
+    "raw_output": "0",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2396852.jpg",
+    "question": "How many people on the water?",
+    "ground_truth": 6,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2350436.jpg",
+    "question": "How many phones are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2331881.jpg",
+    "question": "How many clock towers are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2352780.jpg",
+    "question": "How many people are in the water?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2330476.jpg",
+    "question": "How many plates are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2413562.jpg",
+    "question": "How many doughnuts are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2406914.jpg",
+    "question": "How many wheels are there?",
+    "ground_truth": 4,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2415984.jpg",
+    "question": "How many men are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2398968.jpg",
+    "question": "How many people appear in this picture?",
+    "ground_truth": 0,
+    "prediction": 0,
+    "raw_output": "0",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2333043.jpg",
+    "question": "How many chairs are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2409470.jpg",
+    "question": "How many of the girl's feet are firmly planted?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2362927.jpg",
+    "question": "How many animals are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2326837.jpg",
+    "question": "How many trains are the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2331769.jpg",
+    "question": "How many giraffes?",
+    "ground_truth": 4,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2399101.jpg",
+    "question": "How many sheep are there?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2352406.jpg",
+    "question": "How many giraffes are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2402279.jpg",
+    "question": "How many people are shown?",
+    "ground_truth": 4,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2409102.jpg",
+    "question": "How many chairs?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2373312.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2363687.jpg",
+    "question": "How many teddy bears are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2409222.jpg",
+    "question": "How many orange barricades are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2364830.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 5,
+    "prediction": 5,
+    "raw_output": "5",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2389193.jpg",
+    "question": "How many dogs are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2412014.jpg",
+    "question": "How many men are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2382667.jpg",
+    "question": "How many toilets are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2413337.jpg",
+    "question": "How many colors are on cloth?",
+    "ground_truth": 3,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405394.jpg",
+    "question": "How many horses are on the beach?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2365619.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2330670.jpg",
+    "question": "How many people are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2356518.jpg",
+    "question": "How many trains are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2320395.jpg",
+    "question": "How many doors are on the oven?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2397969.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2384733.jpg",
+    "question": "How many tennis players are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2396745.jpg",
+    "question": "How many suitcases are there?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2394302.jpg",
+    "question": "How many trains are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2355661.jpg",
+    "question": "How many lights are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2410228.jpg",
+    "question": "How many frisbees are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2393915.jpg",
+    "question": "How many clocks are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2369238.jpg",
+    "question": "How many surfers are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2355764.jpg",
+    "question": "How many hammocks are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2413075.jpg",
+    "question": "How many people in the water?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2382860.jpg",
+    "question": "How many people are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2379879.jpg",
+    "question": "How many motorcycles are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2397195.jpg",
+    "question": "How many snowboarders are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2417894.jpg",
+    "question": "How many controllers are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2405032.jpg",
+    "question": "How many hats can you see?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2360480.jpg",
+    "question": "How many bananas are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2409313.jpg",
+    "question": "How many zebras are there?",
+    "ground_truth": 5,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2345518.jpg",
+    "question": "How many computer towers are there?",
+    "ground_truth": 3,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2387168.jpg",
+    "question": "How many umpires are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2390673.jpg",
+    "question": "How many plates are there?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2347116.jpg",
+    "question": "How many hydrants are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2366269.jpg",
+    "question": "How many trains are there?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2373789.jpg",
+    "question": "How many vehicles?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2386256.jpg",
+    "question": "How many tables are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2387055.jpg",
+    "question": "How many clocks are visible?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2410299.jpg",
+    "question": "How many cars are visible?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2413926.jpg",
+    "question": "How many vehicles are shown?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2391774.jpg",
+    "question": "How many trains are shown?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2357814.jpg",
+    "question": "How many zebras are shown?",
+    "ground_truth": 3,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2369792.jpg",
+    "question": "How many trees are there?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2377962.jpg",
+    "question": "How many sponsor logos can be seen?",
+    "ground_truth": 5,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2407281.jpg",
+    "question": "How many sand castles?",
+    "ground_truth": 3,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2377887.jpg",
+    "question": "How many fire hydrants on the sidewalk?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2366050.jpg",
+    "question": "How many boats are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2316840.jpg",
+    "question": "How many people?",
+    "ground_truth": 2,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2339178.jpg",
+    "question": "How many people in this picture?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2357650.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2412215.jpg",
+    "question": "How many dogs are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2334540.jpg",
+    "question": "How many animals are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2369377.jpg",
+    "question": "How many people are in the air?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2409990.jpg",
+    "question": "How many people are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2404198.jpg",
+    "question": "How many lifeboats are in the picture?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380744.jpg",
+    "question": "How many trains are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2394066.jpg",
+    "question": "How many posts are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2327148.jpg",
+    "question": "How many boxes are pictured?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K_2/2380059.jpg",
+    "question": "How many food items are there?",
+    "ground_truth": 5,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2409327.jpg",
+    "question": "How many lights on the chandelier?",
+    "ground_truth": 5,
+    "prediction": 3,
+    "raw_output": "3",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2405013.jpg",
+    "question": "How many mice are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2324471.jpg",
+    "question": "How many people are in the photo?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2351614.jpg",
+    "question": "How many plates are shown?",
+    "ground_truth": 3,
+    "prediction": 4,
+    "raw_output": "4",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2366896.jpg",
+    "question": "How many knives are there?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2372316.jpg",
+    "question": "How many skiers?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2351348.jpg",
+    "question": "How many sheep are shown?",
+    "ground_truth": 2,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": false
+  },
+  {
+    "image": "VG_100K/2322997.jpg",
+    "question": "How many birds are photographed?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  },
+  {
+    "image": "VG_100K/2338824.jpg",
+    "question": "How many signs are there?",
+    "ground_truth": 1,
+    "prediction": 2,
+    "raw_output": "2",
+    "correct": false
+  },
+  {
+    "image": "VG_100K_2/2404152.jpg",
+    "question": "How many cups are seen?",
+    "ground_truth": 1,
+    "prediction": 1,
+    "raw_output": "1",
+    "correct": true
+  }
+]

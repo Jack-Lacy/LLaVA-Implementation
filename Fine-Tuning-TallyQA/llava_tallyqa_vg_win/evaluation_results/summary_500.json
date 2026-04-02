@@ -1,0 +1,10 @@
+{
+  "num_questions": 500,
+  "base_accuracy": 0.754,
+  "base_correct": 377,
+  "base_total": 500,
+  "finetuned_accuracy": 0.776,
+  "finetuned_correct": 388,
+  "finetuned_total": 500,
+  "absolute_improvement": 0.02200000000000002
+}

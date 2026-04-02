@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "tallyqa_vg_41905",
+    "image": "VG_100K_2/2413730.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many drawers does the white dresser have? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_07296",
+    "image": "VG_100K_2/2405958.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many mugs are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_01639",
+    "image": "VG_100K_2/2412276.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are playing baseball? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_18024",
+    "image": "VG_100K_2/2380086.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_16049",
+    "image": "VG_100K_2/2385223.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are wearing their skis? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14628",
+    "image": "VG_100K_2/2388870.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sinks in the room? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_09144",
+    "image": "VG_100K_2/2403011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many statues are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06717",
+    "image": "VG_100K_2/2406432.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many wheels are on the motorcycle? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_44348",
+    "image": "VG_100K_2/2417329.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many faucets are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35741",
+    "image": "VG_100K/2330295.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many plates of food are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_05697",
+    "image": "VG_100K_2/2407386.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many horns are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_38698",
+    "image": "VG_100K/2321773.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many balls are seen? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_27651",
+    "image": "VG_100K/2352950.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_02082",
+    "image": "VG_100K_2/2410578.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many clocks are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_01952",
+    "image": "VG_100K_2/2410817.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06140",
+    "image": "VG_100K_2/2406965.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many horses are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14328",
+    "image": "VG_100K_2/2389631.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are wearing red shirts? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15247",
+    "image": "VG_100K_2/2387301.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many balloons are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_33118",
+    "image": "VG_100K/2337543.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_39453",
+    "image": "VG_100K/2319467.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many strikes does a batter have to have to make an out? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_01739",
+    "image": "VG_100K_2/2411866.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many big rocks are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_36781",
+    "image": "VG_100K/2327168.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_13031",
+    "image": "VG_100K_2/2392875.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many rolls of paper towels are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_42590",
+    "image": "VG_100K_2/2412906.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many legs does the cat have? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35713",
+    "image": "VG_100K/2330378.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "11"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_27493",
+    "image": "VG_100K/2353404.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14446",
+    "image": "VG_100K_2/2389323.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many tables are outside the business? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_29439",
+    "image": "VG_100K/2347869.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_38618",
+    "image": "VG_100K/2322022.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are present? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_18231",
+    "image": "VG_100K_2/2379527.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are actively skateboarding? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_00425",
+    "image": "VG_100K/107966.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many windows are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10463",
+    "image": "VG_100K_2/2399680.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many flags are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_27696",
+    "image": "VG_100K/2352839.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trucks are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_22298",
+    "image": "VG_100K/2368074.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sections of water? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_18210",
+    "image": "VG_100K_2/2379583.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many waste baskets are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10189",
+    "image": "VG_100K_2/2400342.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cattle are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14110",
+    "image": "VG_100K_2/2390215.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many vans are behind the man? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_22059",
+    "image": "VG_100K/2368745.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many wax figures are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06698",
+    "image": "VG_100K_2/2406440.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many bracelets is the person wearing? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06078",
+    "image": "VG_100K_2/2407001.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many carrots are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_24898",
+    "image": "VG_100K/2360704.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trucks? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06338",
+    "image": "VG_100K_2/2406764.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many microwaves are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_23526",
+    "image": "VG_100K/2364405.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cars are in this photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_22541",
+    "image": "VG_100K/2367347.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are on the field? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_39565",
+    "image": "VG_100K/2319115.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many planes are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17335",
+    "image": "VG_100K_2/2381879.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many zebras are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_02847",
+    "image": "VG_100K_2/2409860.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many plates have more than one donut? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_30108",
+    "image": "VG_100K/2346139.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many ropes are hanging from the banner? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35142",
+    "image": "VG_100K/2331960.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many buildings are in the image? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_08180",
+    "image": "VG_100K_2/2405124.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_24807",
+    "image": "VG_100K/2360973.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many remotes are in this photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_05164",
+    "image": "VG_100K_2/2407832.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many glasses are on the table? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_36178",
+    "image": "VG_100K/2328954.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many birds are below the strip of purple across the field? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_19213",
+    "image": "VG_100K/2376856.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many children can be seen in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_41198",
+    "image": "VG_100K_2/2414737.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are standing near the farmer? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_40535",
+    "image": "VG_100K/2316483.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cutting boards? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_23700",
+    "image": "VG_100K/2363892.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_37837",
+    "image": "VG_100K/2324276.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many umbrellas are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_12601",
+    "image": "VG_100K_2/2393976.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many planes are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04558",
+    "image": "VG_100K_2/2408367.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many elephants are walking? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_03003",
+    "image": "VG_100K_2/2409749.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_43336",
+    "image": "VG_100K_2/2411998.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many posts are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14935",
+    "image": "VG_100K_2/2388137.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many wings does the plane have? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_18965",
+    "image": "VG_100K_2/2377498.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many plates of food are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_05229",
+    "image": "VG_100K_2/2407784.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trucks are in the background? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15256",
+    "image": "VG_100K_2/2387284.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06619",
+    "image": "VG_100K_2/2406520.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many birds are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_24911",
+    "image": "VG_100K/2360669.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many pieces of food are on the tray? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_18217",
+    "image": "VG_100K_2/2379550.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the scene? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_29714",
+    "image": "VG_100K/2347177.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many knobs on the sink are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_41660",
+    "image": "VG_100K_2/2413998.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many horses are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_23909",
+    "image": "VG_100K/2363371.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many signs are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10659",
+    "image": "VG_100K_2/2399127.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in this picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_24260",
+    "image": "VG_100K/2362454.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many children are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_23283",
+    "image": "VG_100K/2365171.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_13730",
+    "image": "VG_100K_2/2391165.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many bears are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_43920",
+    "image": "VG_100K_2/2415977.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many clocks? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17496",
+    "image": "VG_100K_2/2381412.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many soccer balls are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_42469",
+    "image": "VG_100K_2/2413064.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sinks are in the room? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04679",
+    "image": "VG_100K_2/2408275.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many surfboards are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_39920",
+    "image": "VG_100K/2318110.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_41613",
+    "image": "VG_100K_2/2414076.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in this photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_11215",
+    "image": "VG_100K_2/2397635.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many monkeys are in the image? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35005",
+    "image": "VG_100K/2332369.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_16043",
+    "image": "VG_100K_2/2385243.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many helmets are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10708",
+    "image": "VG_100K_2/2399031.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cars are in this picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_30294",
+    "image": "VG_100K/2345602.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many tires are on the dock? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_24867",
+    "image": "VG_100K/2360815.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many children are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17691",
+    "image": "VG_100K_2/2380880.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_41943",
+    "image": "VG_100K_2/2413690.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many legs does the elephant have? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_36500",
+    "image": "VG_100K/2327945.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many hands does the clock have? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14392",
+    "image": "VG_100K_2/2389480.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many zebras are there in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_21252",
+    "image": "VG_100K/2371110.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are pictured here? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_03665",
+    "image": "VG_100K_2/2409134.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15010",
+    "image": "VG_100K_2/2387920.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many players do we see? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_02103",
+    "image": "VG_100K_2/2410563.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many species? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_20673",
+    "image": "VG_100K/2372771.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_26290",
+    "image": "VG_100K/2356720.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many man smiling? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17546",
+    "image": "VG_100K_2/2381264.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many bears are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04337",
+    "image": "VG_100K_2/2408558.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many planes are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_13826",
+    "image": "VG_100K_2/2390947.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many ducks are in the water? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_37170",
+    "image": "VG_100K/2326001.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many white lines are on the ground? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_20622",
+    "image": "VG_100K/2372883.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are eating doughnuts? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_13934",
+    "image": "VG_100K_2/2390676.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many device's screens are lit up? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_42954",
+    "image": "VG_100K_2/2412468.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cakes are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_32717",
+    "image": "VG_100K/2338665.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are on the court playing tennis? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_25928",
+    "image": "VG_100K/2357746.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people appear in this picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_42129",
+    "image": "VG_100K_2/2413441.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many phones are raised? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_30071",
+    "image": "VG_100K/2346238.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many electronic devices are in the image? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_09363",
+    "image": "VG_100K_2/2402416.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many horses are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17359",
+    "image": "VG_100K_2/2381817.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are shown in this image? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_09150",
+    "image": "VG_100K_2/2403002.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many mannequins have yellow jackets on? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_16162",
+    "image": "VG_100K_2/2384924.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many headlights are on the truck? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_36789",
+    "image": "VG_100K/2327130.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35322",
+    "image": "VG_100K/2331438.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many signs are there in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17219",
+    "image": "VG_100K_2/2382198.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people do you see? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_38311",
+    "image": "VG_100K/2322932.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many birds are in the sky? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_28077",
+    "image": "VG_100K/2351726.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are here? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_38242",
+    "image": "VG_100K/2323157.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many players? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_26175",
+    "image": "VG_100K/2356995.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many groups of clouds are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_23723",
+    "image": "VG_100K/2363848.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many benches are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14373",
+    "image": "VG_100K_2/2389531.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many wine bottles on the table? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_09065",
+    "image": "VG_100K_2/2403252.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many coconuts are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_33392",
+    "image": "VG_100K/2336721.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are surfing? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_32343",
+    "image": "VG_100K/2339678.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many doors are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_05957",
+    "image": "VG_100K_2/2407134.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many girls are wearing a white shirt? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_03087",
+    "image": "VG_100K_2/2409680.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_07185",
+    "image": "VG_100K_2/2406066.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many wings does the plane have? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10016",
+    "image": "VG_100K_2/2400837.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cows are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_41120",
+    "image": "VG_100K_2/2414861.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10484",
+    "image": "VG_100K_2/2399614.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are on the vase? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_27666",
+    "image": "VG_100K/2352918.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many types of vegetables are seen in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_39086",
+    "image": "VG_100K/2320624.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in this photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04163",
+    "image": "VG_100K_2/2408943.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are standing? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_25216",
+    "image": "VG_100K/2359769.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffe are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_25009",
+    "image": "VG_100K/2360388.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people at the platform? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_39052",
+    "image": "VG_100K/2320733.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many players are in this picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_30674",
+    "image": "VG_100K/2344466.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_34676",
+    "image": "VG_100K/2333254.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_16476",
+    "image": "VG_100K_2/2384128.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are on the bed? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_36256",
+    "image": "VG_100K/2328720.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many vehicle doors are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_00752",
+    "image": "VG_100K/150393.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many windshield wipers are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_07507",
+    "image": "VG_100K_2/2405758.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many handles are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35190",
+    "image": "VG_100K/2331870.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many slices are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17486",
+    "image": "VG_100K_2/2381433.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs are on the boat? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_42006",
+    "image": "VG_100K_2/2413611.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many tables are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_22293",
+    "image": "VG_100K/2368082.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many surfers are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_07310",
+    "image": "VG_100K_2/2405948.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many toilets are in the stall? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_19234",
+    "image": "VG_100K/2376805.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_28492",
+    "image": "VG_100K/2350527.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many meters are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10365",
+    "image": "VG_100K_2/2399943.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many balls are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_29735",
+    "image": "VG_100K/2347125.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_00212",
+    "image": "VG_100K/61537.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many stop lights are hanging on the pole? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17261",
+    "image": "VG_100K_2/2382112.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sinks are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_32806",
+    "image": "VG_100K/2338448.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people is in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_11708",
+    "image": "VG_100K_2/2396414.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many bears are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_33271",
+    "image": "VG_100K/2337115.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many tall brown telephone poles are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06973",
+    "image": "VG_100K_2/2406218.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many mirrors are on the scooter? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_40979",
+    "image": "VG_100K_2/2415051.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many tracks can be seen? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_19558",
+    "image": "VG_100K/2375912.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_41874",
+    "image": "VG_100K_2/2413753.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many wheels can be seen? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_33270",
+    "image": "VG_100K/2337115.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many red vehicle brake lights are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_39909",
+    "image": "VG_100K/2318156.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many signs are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_13035",
+    "image": "VG_100K_2/2392853.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many women skiing? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_24504",
+    "image": "VG_100K/2361795.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many rackets are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10587",
+    "image": "VG_100K_2/2399328.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many birds are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35348",
+    "image": "VG_100K/2331361.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many containers are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_34757",
+    "image": "VG_100K/2333050.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many ships are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_00037",
+    "image": "VG_100K/23.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people can be seen in a car? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_39252",
+    "image": "VG_100K/2320071.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many birds are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "14"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_21243",
+    "image": "VG_100K/2371127.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many toilets are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_32021",
+    "image": "VG_100K/2340622.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_01276",
+    "image": "VG_100K_2/2413674.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_07331",
+    "image": "VG_100K_2/2405928.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trains are at the platform? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_23788",
+    "image": "VG_100K/2363654.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_20153",
+    "image": "VG_100K/2374214.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are waiting to get on the bus? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15692",
+    "image": "VG_100K_2/2386173.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many vehicles? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_03796",
+    "image": "VG_100K_2/2408631.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are shown beside the luggage? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15785",
+    "image": "VG_100K_2/2385948.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in this picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_37182",
+    "image": "VG_100K/2325974.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many remote controls do you see? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_05161",
+    "image": "VG_100K_2/2407837.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many paper napkins are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_05613",
+    "image": "VG_100K_2/2407448.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in this picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_31849",
+    "image": "VG_100K/2341105.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04535",
+    "image": "VG_100K_2/2408385.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sheep legs are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_34911",
+    "image": "VG_100K/2332617.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are eating? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_08241",
+    "image": "VG_100K_2/2405067.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many windows are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_08414",
+    "image": "VG_100K_2/2404936.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many horses are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_43237",
+    "image": "VG_100K_2/2412122.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many towels are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_31148",
+    "image": "VG_100K/2343138.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_36031",
+    "image": "VG_100K/2329378.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many clocks are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10821",
+    "image": "VG_100K_2/2398736.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many red balls are visible in the scene? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17370",
+    "image": "VG_100K_2/2381788.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many men sitting on the bench? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_34581",
+    "image": "VG_100K/2333487.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many mice are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_39753",
+    "image": "VG_100K/2318599.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many fire hydrants are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_27730",
+    "image": "VG_100K/2352743.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_13880",
+    "image": "VG_100K_2/2390794.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trains are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35343",
+    "image": "VG_100K/2331380.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the image? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_13182",
+    "image": "VG_100K_2/2392491.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many men are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_20428",
+    "image": "VG_100K/2373441.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many fire trucks are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_26148",
+    "image": "VG_100K/2357080.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many tennis rackets can be seen? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_44019",
+    "image": "VG_100K_2/2416254.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many horses are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_24472",
+    "image": "VG_100K/2361862.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many number twos are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_28711",
+    "image": "VG_100K/2349919.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many doughnuts are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_33919",
+    "image": "VG_100K/2335308.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sheep are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "13"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_29588",
+    "image": "VG_100K/2347487.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many vehicles are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_07930",
+    "image": "VG_100K_2/2405414.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are snowboarding? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_16246",
+    "image": "VG_100K_2/2384723.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cakes? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14725",
+    "image": "VG_100K_2/2388624.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04196",
+    "image": "VG_100K_2/2408970.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many zebras are seen? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_22156",
+    "image": "VG_100K/2368468.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trains are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_01378",
+    "image": "VG_100K_2/2413354.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are in the image? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_38555",
+    "image": "VG_100K/2322235.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many boats are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_36301",
+    "image": "VG_100K/2328568.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15080",
+    "image": "VG_100K_2/2387730.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many tubs are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_38564",
+    "image": "VG_100K/2322193.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many stoves are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14432",
+    "image": "VG_100K_2/2389366.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many umbrellas are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_00471",
+    "image": "VG_100K/107990.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many grass containers are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04652",
+    "image": "VG_100K_2/2408301.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many boats are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_41359",
+    "image": "VG_100K_2/2414523.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cars are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_03858",
+    "image": "VG_100K_2/2408671.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "11"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15003",
+    "image": "VG_100K_2/2387927.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cups of tea? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04417",
+    "image": "VG_100K_2/2408486.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_02058",
+    "image": "VG_100K_2/2410614.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cups are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_21654",
+    "image": "VG_100K/2369896.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many surfers are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04643",
+    "image": "VG_100K_2/2408304.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sheep are in this picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_33695",
+    "image": "VG_100K/2335908.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many flags are red? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15597",
+    "image": "VG_100K_2/2386393.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many tarts are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_18250",
+    "image": "VG_100K_2/2379478.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many babies are in bed? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_43842",
+    "image": "VG_100K_2/2415796.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many men are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_31812",
+    "image": "VG_100K/2341185.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trains are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14040",
+    "image": "VG_100K_2/2390384.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sheep are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35339",
+    "image": "VG_100K/2331385.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many monitors are visible in this photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_08671",
+    "image": "VG_100K_2/2404316.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many glasses are on the table? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_37423",
+    "image": "VG_100K/2325399.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many chairs are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_37762",
+    "image": "VG_100K/2324482.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many chairs are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_30976",
+    "image": "VG_100K/2343609.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many calculators are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15925",
+    "image": "VG_100K_2/2385548.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many players are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_30996",
+    "image": "VG_100K/2343554.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many full olives can be seen? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_26677",
+    "image": "VG_100K/2355675.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many snowboarders are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_12478",
+    "image": "VG_100K_2/2394351.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many frisbees are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06181",
+    "image": "VG_100K_2/2406920.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many birds are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06352",
+    "image": "VG_100K_2/2406756.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in this picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_43187",
+    "image": "VG_100K_2/2412199.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many white cups are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_28249",
+    "image": "VG_100K/2351189.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many zebras are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_23219",
+    "image": "VG_100K/2365352.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many windows are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_27759",
+    "image": "VG_100K/2352690.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are wearing shoes? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_26941",
+    "image": "VG_100K/2354983.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the room? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_30606",
+    "image": "VG_100K/2344663.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_03550",
+    "image": "VG_100K_2/2409242.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many flags are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_44129",
+    "image": "VG_100K_2/2416545.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are surfing? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_42824",
+    "image": "VG_100K_2/2412622.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many surfboards are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_42348",
+    "image": "VG_100K_2/2413189.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in this photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06449",
+    "image": "VG_100K_2/2406672.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many planes are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_03972",
+    "image": "VG_100K_2/2408774.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_26386",
+    "image": "VG_100K/2356492.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the photograph? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_22236",
+    "image": "VG_100K/2368248.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many signs are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_07161",
+    "image": "VG_100K_2/2406087.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many glasses are seen? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_16295",
+    "image": "VG_100K_2/2384571.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_12556",
+    "image": "VG_100K_2/2394130.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the water? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_12465",
+    "image": "VG_100K_2/2394375.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many zebras are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35146",
+    "image": "VG_100K/2331954.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs laying down? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_29400",
+    "image": "VG_100K/2347955.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many kites are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_09186",
+    "image": "VG_100K_2/2402906.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_27648",
+    "image": "VG_100K/2352964.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many men in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_12025",
+    "image": "VG_100K_2/2395561.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people at the table? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_18254",
+    "image": "VG_100K_2/2379460.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the air? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_30318",
+    "image": "VG_100K/2345539.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_16371",
+    "image": "VG_100K_2/2384377.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trains are there in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_04940",
+    "image": "VG_100K_2/2408049.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many drawers are in the chest? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_29041",
+    "image": "VG_100K/2349011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many boats are on the water? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_36066",
+    "image": "VG_100K/2329280.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cars are pictured? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06416",
+    "image": "VG_100K_2/2406711.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many circle screens? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_03315",
+    "image": "VG_100K_2/2409479.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many levels of display are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_42738",
+    "image": "VG_100K_2/2412691.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sets of train tracks are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_35427",
+    "image": "VG_100K/2331130.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cats are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_00967",
+    "image": "VG_100K/1159298.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many women are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_06112",
+    "image": "VG_100K_2/2406992.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many light poles? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_15491",
+    "image": "VG_100K_2/2386654.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10899",
+    "image": "VG_100K_2/2398533.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many bicyclists are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_26634",
+    "image": "VG_100K/2355798.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many clocks on the tower? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_31826",
+    "image": "VG_100K/2341160.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many bikes are in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_31546",
+    "image": "VG_100K/2341975.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many eyes does the cat have? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14008",
+    "image": "VG_100K_2/2390449.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trains? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_26282",
+    "image": "VG_100K/2356739.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many courses is the Sunday meal? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_03842",
+    "image": "VG_100K_2/2408664.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many dogs are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10789",
+    "image": "VG_100K_2/2398831.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many buildings are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_24836",
+    "image": "VG_100K/2360917.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sandwiches are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_00141",
+    "image": "VG_100K_2/2415170.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are wearing safety vests? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_25586",
+    "image": "VG_100K/2358765.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many poles are holding up the sign? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_17380",
+    "image": "VG_100K_2/2381744.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the photo? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_29819",
+    "image": "VG_100K/2346874.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cars are visible? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_18694",
+    "image": "VG_100K_2/2378248.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many planes flying? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_27722",
+    "image": "VG_100K/2352762.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many elephants are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_36422",
+    "image": "VG_100K/2328132.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many newspapers are showing? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_43376",
+    "image": "VG_100K_2/2411947.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many streetlights? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_31894",
+    "image": "VG_100K/2340989.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_10144",
+    "image": "VG_100K_2/2400464.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many horses are shown? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_12445",
+    "image": "VG_100K_2/2394439.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many surfboards are featured in the picture? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_19445",
+    "image": "VG_100K/2376237.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many signs are on the left? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "tallyqa_vg_14267",
+    "image": "VG_100K_2/2389773.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many stuffed animals are there? Answer with a number only."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  }
+]
